@@ -77,7 +77,7 @@ How to document work professionally
 
 ---
 
-## 📚 Interview Questions & Answers (Based on Task-1)
+##  Interview Questions & Answers 
 Here i am answering based om what i understand from the above task
 
 
