@@ -23,23 +23,23 @@ The goal was not to build a model, but to:
 ```
 AI_ML_Task1/
 │
-├── data/                      # Dataset (titanic.csv)
+├── data/                      
 │
-├── src/                       # Custom Python modules
-│   ├── loader.py              # Handles dataset loading
-│   ├── analyzer.py            # Generates dataset summary + feature classification
-│   └── utils.py               # Helper functions for clean output
+├── src/                       
+│   ├── loader.py              
+│   ├── analyzer.py            
+│   └── utils.py               
 │
 ├── notebooks/
-│   └── analysis.ipynb         # Main analysis notebook
+│   └── analysis.ipynb        
 │
 ├── reports/
-│   └── task1_report.md        # 1-page dataset analysis report
+│   └── task1_report.md      
 │
 ├── outputs/
-│   └── screenshots/           # Notebook screenshots (optional)
+│   └── screenshots/          
 │
-└── README.md                  # Project documentation
+└── README.md                
 ```
 
 ### **Tech Stack**
