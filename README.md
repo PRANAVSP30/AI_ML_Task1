@@ -11,11 +11,11 @@ It includes a modular Python codebase, a clean notebook, and a professional anal
 
 The goal was not to build a model, but to:
 
-  Explore the dataset
-  Identify feature types
-  Check data quality
-  Understand missing values
-  Evaluate dataset suitability for ML
+      Explore the dataset
+      Identify feature types
+      Check data quality
+      Understand missing values
+      Evaluate dataset suitability for ML
 
 
 ### **Project Structure**
