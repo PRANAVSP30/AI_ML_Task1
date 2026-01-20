@@ -1,23 +1,24 @@
-AI & ML Internship — Task 1
-Understanding Dataset & Data Types
-Submitted by: Pranav S P
+# AI & ML Internship — Task 1
+## Understanding Dataset & Data Types
+## Submitted by: Pranav S P
 
 
-**Project Overview**
+## **Project Overview**
 
 This project focuses on understanding data structure, data types, and ML readiness using the Titanic Dataset.
+
 It includes a modular Python codebase, a clean notebook, and a professional analysis report.
 
 The goal was not to build a model, but to:
 
-Explore the dataset
-Identify feature types
-Check data quality
-Understand missing values
-Evaluate dataset suitability for ML
+  Explore the dataset
+  Identify feature types
+  Check data quality
+  Understand missing values
+  Evaluate dataset suitability for ML
 
 
-**Project Structure**
+### **Project Structure**
 
 AI_ML_Task1/
 │
@@ -40,40 +41,38 @@ AI_ML_Task1/
 └── README.md             # Project documentation
 
 
-**Tech Stack**
+### **Tech Stack**
 
-Python
-Pandas
-NumPy
-VS Code
-Jupyter Notebook (via VS Code)
+  - Python
+  - Pandas
+  - NumPy
+  - VS Code
+  - Jupyter Notebook (via VS Code)
 
 
-**Dataset Used**
+### **Dataset Used**
 
 Titanic Dataset
-Contains passenger details such as age, sex, class, fare, and survival status.
+  Contains passenger details such as age, sex, class, fare, and survival status.
 
-Target variable → Survived
+Target variable =  Survived
 
 
-**How to Run the Project**
+### **How to Run the Project**
 
 Install dependencies:
-*pip install pandas numpy ipykernel*
+  *pip install pandas numpy ipykernel*
 
 Open : notebooks/analysis.ipynb
-Select Python Kernel, then run all cells.
 
+### **What I Learned from this Task**
 
-**What I Learned from this Task**
-
-How to structure a data project
-How to build reusable python modules
-How to examine data quality
-How to identify feature types
-How to evaluate dataset readiness for ML
-How to document work professionally  
+  How to structure a data project
+  How to build reusable python modules
+  How to examine data quality
+  How to identify feature types
+  How to evaluate dataset readiness for ML
+  How to document work professionally  
 
 ---
 
