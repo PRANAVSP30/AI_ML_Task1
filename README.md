@@ -20,26 +20,27 @@ The goal was not to build a model, but to:
 
 ### **Project Structure**
 
+```
 AI_ML_Task1/
 │
-├── data/                 # Dataset (titanic.csv)
+├── data/                      # Dataset (titanic.csv)
 │
-├── src/                  # Custom Python modules 
-│   ├── loader.py         # Handles dataset loading
-│   ├── analyzer.py       # Generates dataset summary + feature classification
-│   └── utils.py          # Helper functions for clean output
+├── src/                       # Custom Python modules
+│   ├── loader.py              # Handles dataset loading
+│   ├── analyzer.py            # Generates dataset summary + feature classification
+│   └── utils.py               # Helper functions for clean output
 │
 ├── notebooks/
-│   └── analysis.ipynb    # Main analysis notebook
+│   └── analysis.ipynb         # Main analysis notebook
 │
 ├── reports/
-│   └── task1_report.md   # 1-page dataset analysis report
+│   └── task1_report.md        # 1-page dataset analysis report
 │
 ├── outputs/
-│   └── screenshots/      # Notebook screenshots (optional)
+│   └── screenshots/           # Notebook screenshots (optional)
 │
-└── README.md             # Project documentation
-
+└── README.md                  # Project documentation
+```
 
 ### **Tech Stack**
 
