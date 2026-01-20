@@ -68,12 +68,12 @@ Open : notebooks/analysis.ipynb
 
 ### **What I Learned from this Task**
 
-  How to structure a data project
-  How to build reusable python modules
-  How to examine data quality
-  How to identify feature types
-  How to evaluate dataset readiness for ML
-  How to document work professionally  
+  - How to structure a data project
+  - How to build reusable python modules
+  - How to examine data quality
+  - How to identify feature types
+  - How to evaluate dataset readiness for ML
+  - How to document work professionally  
 
 ---
 
